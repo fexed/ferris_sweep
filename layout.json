@@ -37,10 +37,10 @@
       "LALT_T(KC_COMM)",
       "LCTL_T(KC_DOT)",
       "KC_SLSH",
-      "KC_P0",
       "KC_BSPC",
+      "KC_SPC",
       "LT(7,KC_SPC)",
-      "KC_P1"
+      "KC_BSPC"
     ],
     [
       "KC_TRNS",
